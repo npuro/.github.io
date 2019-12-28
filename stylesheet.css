@@ -1,0 +1,15 @@
+.img-text{
+  position: absolute;
+  bottom: 50px;
+  width:100%;
+  max-width: 620px;
+  color: #fff;
+  background-color: rgba(255,5,55,0.3);
+  padding:10px;
+  font-size: 1.5em;
+  text-align: center;
+
+}
+.on-img{
+  position: relative;
+}
