@@ -7,9 +7,9 @@
 .photo img{
   width:100%;
 }
-.text{
+.photo p{
   width:100%;
-  font-size:150px;
+  font-size:150%;
   text-align:center;
   margin:0;
   padding:0;
