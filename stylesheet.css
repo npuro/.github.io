@@ -1,10 +1,10 @@
-.photo{
+.main{
   position: relative;
 }
-.photo img{
+.main img{
   width:100%;
 }
-.photo p{
+.main p{
   top:50%;
   width:100%;
   font-size:150%;
@@ -15,3 +15,36 @@
   position:absolute;
   text-align:center;
   }
+.header {
+    height: 30px;
+    background-color: #FFFF00;
+  }
+.header p{
+  text-align: center;
+  font-family: "Verdana";
+  padding-top:5px;
+}
+.header img{
+  float: left;
+  height:30px;
+  position:relative;
+  left:250px;
+}
+.footer{
+  height: 100px;
+  background: #CCFFFF;
+}
+.footer-logo{
+  float:left;
+  color:#000;
+  font-size:20px;
+  padding-left: 5px;
+}
+.footer-list {
+  float:right;
+}
+li{
+  color:#000;
+  list-style: none;
+  padding-right: 5px;
+}
