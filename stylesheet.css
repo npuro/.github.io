@@ -34,6 +34,7 @@
   position:relative;
   left:45%;
   float:left;
+  list-style: none;
 }
 .list li{
   position:relative;
@@ -64,23 +65,43 @@ color:#1E90FF;
 }
 .footer{
   height: 300px;
-  background: #4682B4;
+  background: #FFF;
+  border-top: 3px solid #000;
 }
 .footer-logo{
-  float:left;
+  text-align: center;
   color:#000;
   font-size:70px;
   padding-left: 10px;
+  font-family: "Verdana";
 }
-.footer-list {
-  float:right;
+.d{
+  position: relative;
+  overflow: hidden;
 }
-li{
-  color:#000;
+.d ul{
+  position: relative;
+  left: 47%;
+  float:left;
+}
+.d li{
+  position: relative;
+  left:-50%;
+  float:left;
   list-style: none;
-  padding-top: 10px;
-  font-size: 40px;
+  padding: 10px;
 }
-
+.line img{
+  width:100px;
+  height:100px;
+}
+.Twitter img{
+  width: 100px;
+  height:100px;
+}
+.instagram img{
+  width: 100px;
+  height:100px;
+}
  
  
